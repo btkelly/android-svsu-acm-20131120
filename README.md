@@ -1,12 +1,16 @@
 # Android Demo App for SVSU ACM 11/20/2013
 =========================
 
-This repo include 5 projects at various stages of development.
+This repo includes 5 projects at various stages of development.
 
 Step 1 - App with basic list view
+
 Step 2 - App with button for moving to the add screen.
+
 Step 3 - App with ability to actually add items to your list
+
 Step 4 - App with ability to delete items by long pressing on an item
+
 Final  - App that will persist list between app launches
 
 Launch app in command line by moving into the root of the step and running the following command:
