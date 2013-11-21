@@ -1,0 +1,41 @@
+*.apk
+*.ap_
+
+# files for the dex VM
+*.dex
+
+# Java class files
+*.class
+
+# generated files
+proguard/
+bin/
+gen/
+target/
+.apt_generated/
+target/
+gen-external-apklibs/
+tmp/
+
+# Local configuration file (sdk path, etc)
+workspace.xml
+.factorypath
+.classpath
+.project
+.settings/
+local.properties
+.DS_Store*
+
+#Android Studio
+.idea/
+.gradle
+/*/local.properties
+/*/out
+/*/*/build
+/*/*/production
+*.iml
+*.iws
+*.ipr
+*~
+*.swp
+

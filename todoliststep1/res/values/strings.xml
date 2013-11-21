@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">todolist</string>
+    <string name="empty_todo_list_message">Your list is empty click here to add an item to your list</string>
+</resources>

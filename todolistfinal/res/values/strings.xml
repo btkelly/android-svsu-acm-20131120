@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello todolist!</string>
+    <string name="app_name">todolist</string>
+    <string name="btn_save_todo">Save</string>
+    <string name="empty_todo_list_message">Your list is empty click here to add an item to your list</string>
+    <string name="dialog_delete_title">Delete TODO</string>
+    <string name="dialog_delete_message">Are you sure you want to delete this todo item?</string>
+    <string name="dialog_invalid_data_title">Invalid Input</string>
+    <string name="dialog_invalid_data_message">To save a new item it cannot be empty.</string>
+</resources>
