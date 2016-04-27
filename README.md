@@ -29,3 +29,5 @@ Instuctions using Android Studio
 5. Lastly you will have to create run configurations for each step. Do this using the drop down at the top and click edit configs. Click the + symbol and create a new Maven config. Set the root of the config to the root of the step you would like to build. In the command line section paste the following command.
 
 clean install -Dmaven.test.skip=true android:deploy android:run
+
+
